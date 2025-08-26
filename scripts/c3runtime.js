@@ -1218,7 +1218,12 @@ function or(l, r)
 
 self.C3_ExpressionFuncs = [
 		() => 0,
-		() => ""
+		() => "Intro",
+		() => "Circle",
+		() => 10,
+		() => 30,
+		() => 2.2,
+		() => "Outro"
 ];
 
 
